@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "ismail",
+      "author": "deneme"
+    },
+    {
+      "id": 3,
+      "title": "iso",
+      "author": "deneme"
+    },
+    {
+      "id": 4,
+      "title": "ismail bayram",
+      "author": "deneme"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
